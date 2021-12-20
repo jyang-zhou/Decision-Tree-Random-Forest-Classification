@@ -12,11 +12,11 @@ The dataset consists of 400 rows and 3 features, including Age, EstimatedSalary,
 ## Decision Tree
 ### Training Set
 
-![image](https://user-images.githubusercontent.com/95513386/146701445-f437a866-041f-45e8-91e9-7bcf4881b1ae.png)
+![image](https://user-images.githubusercontent.com/95513386/146701601-c573737e-f381-42c6-892c-952e89c930b1.png)
 
 ### Test Set
 
-![image](https://user-images.githubusercontent.com/95513386/146701466-3829186a-d98d-40d3-a253-5fde5a9c8480.png)
+![image](https://user-images.githubusercontent.com/95513386/146701627-2aaa8df5-2fe5-416a-aade-6249ec64c62f.png)
 
 ### Accuracy: 0.91
 
@@ -28,6 +28,6 @@ The dataset consists of 400 rows and 3 features, including Age, EstimatedSalary,
 
 ### Test Set
 
-![image](https://user-images.githubusercontent.com/95513386/146701539-e733521a-670a-46d1-850b-891126f4c0a8.png)
+![Uploading image.png…]()
 
 ### Accuracy: 0.91
