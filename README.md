@@ -8,6 +8,12 @@ Random Forest is a tree-based machine learning algorithm that leverages the powe
 
 The dataset consists of 400 rows and 3 features, including Age, EstimatedSalary, and Purchased. Here, the target variable is Purchased, which indicates whether a person purchased the item or not.
 
+## Dataset Sample
+Age,EstimatedSalary,Purchased
+19,19000,0
+35,20000,0
+32,150000,1
+
 # Visualization and Accuracy
 ## Decision Tree
 ### Training Set
