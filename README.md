@@ -28,6 +28,6 @@ The dataset consists of 400 rows and 3 features, including Age, EstimatedSalary,
 
 ### Test Set
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/95513386/146701672-fbe4f6c4-90c7-40a6-81e0-f9db1e9b4cbd.png)
 
 ### Accuracy: 0.91
