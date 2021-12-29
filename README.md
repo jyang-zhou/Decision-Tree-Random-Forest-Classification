@@ -1,9 +1,8 @@
 # Decision-Tree-Random-Forest-Classification
 
-A decision tree is a supervised machine learning algorithm that can be used for both classification and regression problems.
+A decision tree is a supervised machine learning algorithm that can be used for both classification and regression problems. It is simply a series of sequential decisions made to reach a specific result.
 
-Random Forest is a tree-based machine learning algorithm that leverages the power of multiple decision trees for making decisions.
-
+But often, a single tree is not sufficient for producing effective results. Random Forest is a tree-based machine learning algorithm that leverages the power of multiple decision trees for making decisions.
 # Dataset
 
 The dataset consists of 400 rows and 3 features, including Age, EstimatedSalary, and Purchased. Here, the target variable is Purchased, which indicates whether a person purchased the item or not.
